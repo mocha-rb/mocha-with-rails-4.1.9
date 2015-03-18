@@ -40,4 +40,5 @@ gem 'spring',        group: :development
 
 group :test do
   gem 'mocha', '1.1.0'
+  gem 'rspec-rails'
 end
